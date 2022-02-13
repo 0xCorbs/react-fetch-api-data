@@ -1,0 +1,60 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;800&display=swap");
+
+.studentContainer {
+  font-family: "Raleway", sans-serif;
+}
+.studentImgContainer {
+  height: 152px;
+}
+.studentImg {
+  height: 120px;
+  border: #d3d3d3 solid 2px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.studentName {
+  font-family: "Raleway", sans-serif;
+}
+.searchInput {
+  border: #d3d3d3;
+  width: 98%;
+}
+.form-control {
+  border-radius: 0;
+}
+.form-control:focus {
+  box-shadow: none;
+  border-bottom: 1px solid #000 !important;
+}
+
+.plusMinusIconContainer {
+  color: #a9a9a9;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.plusIcon {
+  cursor: pointer;
+}
+.studentTest {
+  width: 70px;
+}
+.studentTestContainer {
+  margin: 0.5rem 0rem;
+}
+.tagInput {
+  border: #d3d3d3;
+  width: 9rem;
+  padding: 0.375rem 0rem;
+}
+.studentTag {
+  width: max-content;
+  padding: 5px 8px;
+  background: #d3d3d3;
+  margin: 2px;
+  border-radius: 5px;
+}
