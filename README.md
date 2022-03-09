@@ -1,6 +1,13 @@
 # Introduction
 
-This project is a demo of my frontend skills on fetching data from an API and demonstrating it with React.
+This project is a demo of my frontend skills on fetching data from an API and demonstrating it with React. It fetches all the data from the API, displaying it with a table with a search function. 
+
+# Demo
+
+
+https://user-images.githubusercontent.com/56396423/157554420-a5a13c71-8a56-47b7-99ed-4244c47447da.mov
+
+
 
 # Getting Started with Create React App
 
